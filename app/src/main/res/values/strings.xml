@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">BookShelf</string>
+    <string name="fact1">This app was created 18 November, 2023</string>
+    <string name="fact2">Author - Larisa Lashkevich</string>
+    <string name="fact3">This app was created with the help of Jetpack Compose</string>
+    <string name="factApp1">The links are clickable</string>
+    <string name="factApp2">With the help of this app you can buy and read books</string>
+    <string name="inst1">Instagram</string>
+    <string name="inst2">Our Instagram profile</string>
+    <string name="git1">GitHub</string>
+    <string name="git2">Project Git</string>
+    <string name="email1">Email</string>
+    <string name="email2">llashkevich04@gmail.com</string>
+    <string name="factsTitle">Facts about app:</string>
+    <string name="urlInst">https://www.instagram.com/lashkevichlarisa/</string>
+    <string name="urlGit">https://github.com/larisalashkevich</string>
+</resources>
